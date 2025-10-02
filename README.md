@@ -3,7 +3,7 @@ An end-to-end analysis of a UK online retailer's sales data, using Power Query, 
 
 
 # Online Retail Transaction Analysis
-Project Completed: October 2025 | Location: London, UK | Tool: Microsoft Excel
+Tool: Microsoft Excel
 Project Overview
 This project presents an in-depth audit and analysis of over 540,000 sales transactions from a real UK-based online retailer. The goal was to leverage advanced Excel functionalities to clean, process, and analyse the dataset to uncover actionable business insights, focusing on revenue concentration and inventory management.
 
